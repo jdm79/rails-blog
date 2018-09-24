@@ -1,5 +1,10 @@
 # README
 
+'Basic' Rails Blog App from the [Rails docs](https://guides.rubyonrails.org/getting_started.html#installing-rails)
+
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
